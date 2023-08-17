@@ -178,10 +178,6 @@ header .mobile {
   border: solid 1px #979797;
   flex-basis: auto;
   border-radius: 10px;
-  background-image: url('../images/face.png');
-  background-position: bottom;
-  background-size: cover;
-  background-repeat: no-repeat;
 }
 #info .content {
   width: 25.625rem;
