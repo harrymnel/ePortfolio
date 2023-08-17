@@ -9,7 +9,7 @@ html {
   position: relative;
   top: 5.3125rem; /* To offset for fixed header. */
   z-index: 10;
-  margin-bottom: 300px;
+  margin-bottom: 250px;
 }
 
 .center {
@@ -170,7 +170,19 @@ header .mobile {
   flex-basis: auto;
   border-radius: 10px;
 }
-
+#info2 {
+  position: relative;
+  top: 50px;
+  right: 10%;
+  padding: 0 5rem 2.5rem 5rem;
+  border: solid 1px #979797;
+  flex-basis: auto;
+  border-radius: 10px;
+  background-image: url('../images/face.png');
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 #info .content {
   width: 25.625rem;
   margin-top: 2rem;
