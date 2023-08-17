@@ -164,7 +164,7 @@ header .mobile {
   position: relative;
   top: 50px;
   left: 10%;
-  padding: 0 1rem 0.5rem 1rem;
+  padding: 0 1rem 1rem 1rem;
   border: solid 1px #979797;
   background: rgba(255, 255, 255, 1);
   flex-basis: auto;
@@ -176,7 +176,7 @@ header .mobile {
   margin-top: 1rem;
   font-family: "Roboto", sans-serif;
   font-size: 1rem;
-  line-height: 1;
+  line-height: 1.4;
   color: rgb(0, 0, 0);
   
 }
@@ -184,6 +184,7 @@ header .mobile {
   display: flex;
   max-width: 100%;
   padding: 0 1%;
+  border-radius: 20px;
 }
 
 #info .image-container{
