@@ -153,7 +153,7 @@ header .mobile {
   height: 10rem;
   background-image: url('../images/banner-landingpage.png');
   background-position: bottom;
-  background-size: 30rem;
+  background-size: contain;
   background-repeat: no-repeat;
 }
 
