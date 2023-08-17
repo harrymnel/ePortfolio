@@ -188,7 +188,15 @@ header .mobile {
   color: rgb(0, 0, 0);
   
 }
+#info .images-container {
+  display: flex;
+  max-width: 100%;
+  padding: 0 1%;
+}
 
+#info .image-container{
+  padding: 0.5rem;
+}
 #info h1 {
   font-size: 3.125rem;
 }
