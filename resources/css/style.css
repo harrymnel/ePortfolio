@@ -150,7 +150,7 @@ header .mobile {
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
-  /*height: 10rem;*/
+  height: 44rem;
   background-image: url('../images/banner-landingpage.png');
   background-position: bottom;
   background-size: cover;
