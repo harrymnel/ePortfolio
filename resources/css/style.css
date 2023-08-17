@@ -147,10 +147,12 @@ header .mobile {
 /* Info Section */
 
 #info-section {
+  position:relative;
+  z-index:2;
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
-  height: 20rem;
+  height: 44rem;
   background-image: url('../images/banner-landingpage.png');
   background-position: bottom;
   background-size: cover;
@@ -236,7 +238,7 @@ header .mobile {
 }
 
 /* Footer */
-/*
+
 footer {
   width: 100%;
   height: auto;
@@ -260,7 +262,7 @@ footer {
   justify-content: center;
   flex-direction: column;
   text-align: center;
-}
+}*/
 
 
 footer ul {
@@ -326,4 +328,3 @@ footer .copyright {
     font-size: .625rem;
   }
 }
-*/
