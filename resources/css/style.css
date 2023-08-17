@@ -236,7 +236,7 @@ header .mobile {
 }
 
 /* Footer */
-
+/*
 footer {
   width: 100%;
   height: auto;
@@ -260,7 +260,7 @@ footer {
   justify-content: center;
   flex-direction: column;
   text-align: center;
-}*/
+}
 
 
 footer ul {
@@ -326,3 +326,4 @@ footer .copyright {
     font-size: .625rem;
   }
 }
+*/
