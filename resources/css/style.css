@@ -4,7 +4,9 @@ html {
   font-family: "Montserrat";
   font-size: 16px;
 }
-
+img {
+  border-radius: 20px;
+}
 .main-content {
   position: relative;
   top: 5.3125rem; /* To offset for fixed header. */
@@ -185,8 +187,6 @@ header .mobile {
   max-width: 100%;
   padding: 0 1%;
   border-radius: 20px;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 #info .image-container{
